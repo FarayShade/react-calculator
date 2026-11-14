@@ -2,7 +2,7 @@
 
 ### Простой калькулятор на React, сделанный в процессе изучения хуков и работы с состоянием.
 
-# [Доступен на GitHub Pages](https://farayshade.github.io/react-calculator/)
+# [Доступен на GitHub Pages](https://shfaray.github.io/react-calculator/)
 
 ![Скриншот калькулятора](./assets/calculator.png)
 
